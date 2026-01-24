@@ -13,7 +13,7 @@ a{
 #amazon{
     height: 30px;
     width: 95px;
-    background-image: url(amazonlogo);
+    background-image: url(images/amazonlogo);
     background-size: cover;
     padding: 4px 8px 0px 6px;
     margin: 8px;
@@ -70,7 +70,7 @@ a{
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
     background-color: #f8be59;
-    background-image: url(mglass1.svg);
+    background-image: url(images/mglass1.svg);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
@@ -90,7 +90,7 @@ a{
     margin-top: 2px;
     height: 15px;
     width: 19px;
-    background-image: url(flaglogo.jpg);
+    background-image: url(images/flaglogo.jpg);
     background-size: cover;
 }
 #langEn{
@@ -101,7 +101,7 @@ a{
 .downarrow{
     margin-top: 2px;
     height: 14px;
-    background-image: url(icons8-sort-down-24.png);
+    background-image: url(images/icons8-sort-down-24.png);
     background-size: 8px 8px;
     background-repeat: no-repeat;
     background-position: center;
@@ -170,7 +170,7 @@ a{
 #menuicon{
     height: 15px;
     width: 18px;
-    background-image: url(menuicon.png);
+    background-image: url(images/menuicon.png);
     background-size: cover;
     margin-right: 4px;
 }
@@ -212,7 +212,7 @@ a{
 }
 .main_body-img{
     height: 320px;
-    background-image: url(main_bodyiImg.jpg);
+    background-image: url(images/main_bodyiImg.jpg);
     background-size: cover;
     display: flex;
     font-family:Arial, Helvetica, sans-serif;
@@ -260,7 +260,7 @@ a{
     background-color: white;
     #item1st{
         height: 300px;
-        background-image: url(item1.jpg);
+        background-image: url(images/item1.jpg);
 }
 }
 #shop-item2{
@@ -271,7 +271,7 @@ a{
     background-color: white;
     #item2nd{
         height: 300px;
-        background-image: url(item2.png);
+        background-image: url(images/item2.png);
         background-size: cover;
     }
 }
@@ -283,7 +283,7 @@ a{
     padding-right: 20px;
     #item3rd{
         height: 300px;
-        background-image: url(item3.png);
+        background-image: url(images/item3.png);
         background-size: cover;
     }
 }
@@ -295,7 +295,7 @@ a{
     padding-right: 20px;
     #item4th{
         height: 300px;
-        background-image: url(item4.png);
+        background-image: url(images/item4.png);
         background-size: cover;
     }
 }
@@ -315,7 +315,7 @@ a{
     background-color: white;
     #item5th{
         height: 300px;
-        background-image: url(item5.png);
+        background-image: url(images/item5.png);
         background-size: cover;
 }
 }
@@ -327,7 +327,7 @@ a{
     background-color: white;
     #item6th{
         height: 275px;
-        background-image: url(item6.png);
+        background-image: url(images/item6.png);
         background-size: cover;
     }
 }
@@ -339,7 +339,7 @@ a{
     padding-right: 20px;
     #item7th{
         height: 300px;
-        background-image: url(item7.png);
+        background-image: url(images/item7.png);
         background-size: cover;
     }
 }
@@ -351,7 +351,7 @@ a{
     padding-right: 20px;
     #item8th{
         height: 300px;
-        background-image: url(item8.png);
+        background-image: url(images/item8.png);
         background-size: cover;
     }
 }
